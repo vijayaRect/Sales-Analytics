@@ -3,9 +3,9 @@
 This projects consists of sales reports and financial reports of Atliq Hardwares.  
 
 1. Sales Reports:
-    It describes the customer performance and market performance vs sales targets  by year wise.
-    Purpose:
-    To Empower businesses to monitor and evaluate their sales activities and performance.
+   It describes the customer performance and market performance vs sales targets  by year wise.
+   Purpose:
+   To Empower businesses to monitor and evaluate their sales activities and performance.
 
 
 2.Financial Reports:
